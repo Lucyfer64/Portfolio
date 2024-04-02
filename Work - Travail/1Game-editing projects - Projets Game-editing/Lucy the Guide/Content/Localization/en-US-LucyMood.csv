@@ -1,0 +1,17 @@
+Key,Translation
+TownNPCMood_Guide.NoHome,"You know, I'm cool with camping out in the outdoors. But I definitely wouldn't mind having a permanent residence!"
+TownNPCMood_Guide.Content,Things are going pretty good.
+TownNPCMood_Guide.FarFromHome,Seems like I'm further away from my home than I'd like... Not that it's bad or anything!
+TownNPCMood_Guide.LoveSpace,This home... I greatly appreciate that you made it for me!
+TownNPCMood_Guide.DislikeCrowded,"I prefer being alone when researching the world, having all these conversations around is bothering me."
+TownNPCMood_Guide.HateCrowded,I despise this... There are so many people it feels like a party 24/7! I can barely get any alone time.
+TownNPCMood_Guide.LikeBiome,"You know, I really like the simplicity, yet beauty of {BiomeName}. It can hold way more than anywhere else!"
+TownNPCMood_Guide.DislikeBiome,"I'm not fond of {BiomeName}. Sure, it's nice, but it's all the same and there's not much to do. I'm also not a big fan of swimming..."
+TownNPCMood_Guide.HateBiome,Ow... I'm getting a splitting headache here. I heard that {BiomeName} can produce a sickness that breaks people's minds and turns them mad!
+TownNPCMood_Guide.LikeNPC,"I like listening to {NPCName} talk, they have a lot of interesting things to share!"
+TownNPCMood_Guide.DislikeNPC,"{NPCName} gives me some weird vibes, maybe it's the suit? Or it's just that mechanical stuff brings back bad memories."
+TownNPCMood_Guide.HateNPC,I despise that {NPCName} is here. The world is nice already! It doesn't need new colors!
+TownNPCMood_Guide.LikeNPC_Princess,*sigh...* {NPCName} makes me feel so... Nice. At ease. I feel like I can be myself and ramble on and on and she will always be interested in what I have to say.
+,
+TownNPCMood_Princess.LoveNPC_Guide,"{NPCName} has so many interesting things to share! She's a girl with some real knowledge I tell you, she teaches me everything about your kingdom!"
+TownNPCMood_Truffle.LoveNPC,"I love {NPCName}, it's a relief to finally talk to someone without them suddenly getting hungry. Though she somehow knows a lot about my kind. Not like I'm complaining!"

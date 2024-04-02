@@ -1,0 +1,24 @@
+Key,Translation
+LegacyDialog.174,"Hey there, {PlayerName}. Need anything? I'd be happy to help!"
+LegacyDialog.175,I can share as much info about this world as I have! Just ask me anything you might be curious about. There are things you might still not know!
+LegacyDialog.176,They say there's a mysterious guy out there that can teach even the most unfamiliar people how to survive. I sure hope I can meet him one day...
+LegacyDialog.173,The night around here is dangerous. Many monsters come around to feast on those who are unprepared.
+GuideSpecialText.Rain1,Some creatures like rainfall. They only come out when the sky is cloudy. That's so fascinating!
+GuideSpecialText.Rain2,Don't worry about it. It's just water falling from the sky! Also known as rain. What? You already knew? In any case... Certain species of fish can walk or fly when it rains!
+GuideSpecialText.Windy1,Be careful not get blown away by these strong gusts of wind! Or get any slimes stuck to your face... I heard they somehow get balloons attached to them to glide along the air.
+GuideSpecialText.Windy2,You know what would make this windy day fun? If we went out and flew some kites!
+GuideSpecialText.Storm1,"Aw man, it's thundering out there... But an interesting thing is that I've never heard of any reports of lightning striking anyone. It should be safe!"
+GuideSpecialText.Storm2,"Even though you're most likely safe from lightning out there, there are some monstrous creatures that come out in this weather."
+LegacyDialog.171,"Hey... I heard you went adventuring. Got any Deathweed you can hand me? No? Eh, it's fine I guess. I was just interested in some."
+LegacyDialog.172,"If you look up, you'd see the moon is blood red. So is everything else. There's really no way to miss it unless you're extremely stupid."
+LegacyDialog.170,Something about everything going red just fills me with some kind of... Annoyance. Monsters are everywhere. Be careful or you'll be slaughtered pathetically.
+GuideSpecialText.Party,"You look confused. Never been to a party? It's a nice time! Make sure to talk to everyone, they may be giving out exclusive stuff."
+GuideSpecialText.Lantern1,"Ah, nothing like a sky filled with lanterns... It's beautiful. The world is a bit more peaceful, and these are a celebration of your victory."
+GuideSpecialText.Lantern2,See these lanterns up in the sky? You've saved our world! People are overjoyed and make regular tribute to your victories. ... Wanna maybe... Watch it together for a bit?
+GuideSpecialText.Eclipse,"Aw man, it's so dark I can't see a thing! But the time says it's supposed to be daytime... A Solar Eclipse!"
+GuideSpecialText.SlimeRain,"There are a ton of these slimes around! I wouldn't kill too many if I were you, I'm pretty sure they have a king. And he would not like it if you killed his kind."
+GuideHelpText.Help_1063,"I've done a lot of research about the Old One's Army, but it seems {Bartender} really wants to be the one to teach you. Go ask them about it."
+GuideChatter.Chatter_2,"I've visited {Nurse} after I seemed to be getting random burns across my body... Not sure why they're there, but sometimes I feel like I'm fully on fire."
+GuideChatter.Chatter_1,"Look, I know you saved {TaxCollector} from eternal damnation, but couldn't you have also taught them proper manners while you were at it?"
+GuideSpecialText.Graveyard1,"There's something about Graveyards that fascinates me. But I'd be careful if I were you, it's crawling nighttime monsters."
+GuideSpecialText.Graveyard2,"I'm getting an ominous feeling here, but I want to know more. Something's calling out to me from beneath the graves..."
